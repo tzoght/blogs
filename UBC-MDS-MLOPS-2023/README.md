@@ -12,7 +12,7 @@
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Brief History](#brief-history)
-    - [Life Before MLOps](#life-before-mlops)
+  - [Life Before MLOps](#life-before-mlops)
   - [The Rise of DevOps](#the-rise-of-devops)
   - [The Emergence of MLOps](#the-emergence-of-mlops)
   - [What are the challenges of practicing MLOps from Data Scientists perspective?](#what-are-the-challenges-of-practicing-mlops-from-data-scientists-perspective)
@@ -40,7 +40,7 @@ These questions led to the introduction and adoption of [DevOps](https://devops.
 
 Despite the emergence of new applications and services due to machine learning, the fundamental questions remain unanswered. The machine learning community has embraced MLOps as the emerging gold standard for the construction and delivery of ML-based solutions, building on the successes of DevOps.
 
-### Life Before MLOps
+## Life Before MLOps
 I have seen numerous software and product delivery practices assume various forms and names, from [Rapid Application Development](https://en.wikipedia.org/wiki/Rapid_application_development) (1990–2010), to [Agile and Extreme Programming](https://en.wikipedia.org/wiki/Agile_software_development) (1997-present) and finally, DevOps (2008-present) which evolved from Agile and the growth of Software As A Service([SaaS](https://en.wikipedia.org/wiki/Software_as_a_service)).
 
 Prior to DevOps and Agile, software development followed the waterfall model, starting from analysis/requirements → high-level design → detailed design → implementation → testing → deployment → operations/maintenance
@@ -128,7 +128,7 @@ In the world of machine learning, building a model is just the beginning. The tr
 * **When your model is successfully deployed, your job is finished**. Comparably, the completion of a software engineer's work coincides with the successful compilation and successful testing of the application. In fact, they have just started their journey, because the majority of a software engineer’s time is spent maintaining existing programs rather than creating new ones.
 **We only care about one metric, and that's accuracy**. Well, accuracy is only a factor when selecting and training a model; however, the ML model does not exist in isolation; the end product is a service, and there are far too many other metrics to count that are more important than accuracy, such as service quality, availability, and latency, etc…
 * **It’s all about engineering, you don’t need to understand the model**. To gain a deeper understanding of the model and the various touch points that require careful operation and monitoring, data scientists should not only educate themselves but also their fellow agile team members in this particular area.
-*
+
 ## Critical Focus Areas in MLOps: Enhancing ML Pipelines from Data to Deployment
 
 In the rapidly evolving field of machine learning, ensuring the seamless operation of ML pipelines and effective MLOps practices is essential for success. At the core of every machine learning-based software are three key artifacts: data preparation, the model itself, and the rollout process. This section highlights the top ten areas of active development within MLOps, addressing critical challenges such as making data discoverable and secure, ensuring reproducibility in model engineering, and creating scalable, reliable deployment strategies. By focusing on these areas, organizations can build robust, efficient pipelines that not only deploy models successfully but also maintain and optimize them in production environments.
