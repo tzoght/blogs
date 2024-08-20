@@ -20,6 +20,7 @@
   - [Critical Focus Areas in MLOps: Enhancing ML Pipelines from Data to Deployment](#critical-focus-areas-in-mlops-enhancing-ml-pipelines-from-data-to-deployment)
   - [Final Thoughts](#final-thoughts)
   - [References](#references)
+- [About Me](#about-me)
 
 ## Introduction
 
@@ -172,3 +173,8 @@ Just as the role of software engineers has evolved significantly over the past d
 * Role of Data Scientists: https://www.techtarget.com/searchenterpriseai/definition/data-scientist https://www.mastersindatascience.org/careers/data-scientist/
 * MLOps.org: https://ml-ops.org/
 * MLOps vs DevOps: Ohttps://devops.com/mlops-vs-devops-whats-the-difference/
+
+# About Me
+
+I have over 20 years of expertise managing software development projects and establishing technical concepts. I am a seasoned professional. Working with a diverse spectrum of organizations—from huge businesses and FAANG to agile startups—I've had the pleasure of scaling teams and delivering creative solutions. I earned my master's degree in machine learning and data science from UBC in 2023, which has stoked my enthusiasm for fusing cloud computing with artificial intelligence to support companies in staying ahead of the curve and realizing the amazing possibilities of technology.
+I presently work for a startup in Vancouver as the lead architect, where I am in charge of the technical direction, security and engineering operations. [Quandri](https://www.quandri.io/) increases productivity for brokers, drives improved retention rates, unlocks insights, and automates repetitive operations.
